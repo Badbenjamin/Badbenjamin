@@ -1,4 +1,4 @@
-## Hi! I'm Ben! 📹💾🎶
+## Hi! I'm Ben! 
 
   I'm a software engineer who learned to code through an interest in 3D computer graphics that led me to Three.js. I have a special interest in 3D data visualization. I love taking real world data and mapping it to 3D models/environments. I thought I would drawn mostly to frontend engineering, but I found out that I really enjoy Python as well. I get a kick out of solving problems! I'm currently working on a 3D map of the NYC subway system. Here are a few of my projects...
 
